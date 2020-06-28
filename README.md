@@ -1,2 +1,2 @@
-# Cl-nica-Odontol-gica
+# Clinica-Odontologica
 Feito com Pascalzin - Pascal
